@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/examples">
+    <file alias="plan.csv">examples/plan.csv</file>
+    <file alias="thermal_cycle.csv">examples/thermal_cycle.csv</file>
+  </qresource>
+</RCC>

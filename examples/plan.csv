@@ -1,0 +1,3 @@
+tag;cycle;comment;kp;ki;k_ff_e;tau_num_e;tau_den_e;k_ff_r;tau_num_r;tau_den_r;sensor_e;sensor_r
+DEMO-FF;thermal_cycle.csv;PI with E feed-forward;80;2;0.8;0.5;2;0;0;0;Sensor E;Sensor R
+DEMO-PI;thermal_cycle.csv;PI only for comparison;80;2;0;0;0;0;0;0;Sensor E;Sensor R

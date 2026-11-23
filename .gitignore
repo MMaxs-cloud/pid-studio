@@ -1,0 +1,44 @@
+# Build products and local IDE state
+/build*/
+/out/
+/dist/
+/.cache/
+/.vs/
+/.idea/
+*.pro.user*
+CMakeLists.txt.user*
+CMakeUserPresets.json
+/.qmake.stash
+Makefile*
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.qm
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+*.autosave
+*.user
+*~
+.DS_Store
+Thumbs.db
+
+# Lab data and generated session logs; examples/ is intentionally tracked.
+/data/
+/sessions/
+/test-output/
+/test-results/
+/Testing/
+/private/
+/private-diagnostics/
+/docs/*.compact.png
+*.dmp
+*.log
+
+# Local helper files, not project assets
+/scripts/sync-project.ps1
